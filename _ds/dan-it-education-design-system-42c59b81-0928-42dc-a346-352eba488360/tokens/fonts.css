@@ -1,0 +1,5 @@
+/* Webfont loading — Golos Text (Google Fonts), substituted for the brand's
+   actual headline/body font (not recoverable from screenshots alone).
+   Variable font, weight axis 400-900. See readme.md "Typography" note. */
+
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
